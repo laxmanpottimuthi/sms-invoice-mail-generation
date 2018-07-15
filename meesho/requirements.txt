@@ -1,0 +1,12 @@
+django==1.10.2
+django-environ==0.4.0
+djangorestframework>=3.5.4
+django-rest-swagger
+django-model-utils==2.5.2
+pytz==2016.6.1
+django-redis==4.4.4
+redis>=2.10.0
+anyjson==0.3.3
+request
+mock
+celery==3.1.17
